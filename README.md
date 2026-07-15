@@ -35,4 +35,5 @@ Composed Image Retrieval (CIR) aims to retrieve target images using a query comp
 Generative Recommendation models aim to use generative language models to produce recommendations directly as textual/item identifiers.
 
 ### 2026
+* **GR2**: Generative Reasoning Re-ranker. [[Paper (arXiv)]](https://arxiv.org/abs/2602.07774) [[Slides]](slides/GR2.pdf)
 * **PLUM**: Adapting pre-trained language models for industrial-scale generative recommendations. [[Paper (ACM)]](https://dl.acm.org/doi/pdf/10.1145/3774904.3792802) [[Slides]](slides/PLUM.pdf)
